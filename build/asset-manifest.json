@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/robotron/static/css/main.51c9bc12.chunk.css",
-    "main.js": "/robotron/static/js/main.3588612b.chunk.js",
-    "main.js.map": "/robotron/static/js/main.3588612b.chunk.js.map",
-    "runtime-main.js": "/robotron/static/js/runtime-main.be77f866.js",
-    "runtime-main.js.map": "/robotron/static/js/runtime-main.be77f866.js.map",
-    "static/css/2.b2b01ed1.chunk.css": "/robotron/static/css/2.b2b01ed1.chunk.css",
-    "static/js/2.711fc548.chunk.js": "/robotron/static/js/2.711fc548.chunk.js",
-    "static/js/2.711fc548.chunk.js.map": "/robotron/static/js/2.711fc548.chunk.js.map",
-    "static/js/3.ac1afdba.chunk.js": "/robotron/static/js/3.ac1afdba.chunk.js",
-    "static/js/3.ac1afdba.chunk.js.map": "/robotron/static/js/3.ac1afdba.chunk.js.map",
-    "index.html": "/robotron/index.html",
-    "static/css/2.b2b01ed1.chunk.css.map": "/robotron/static/css/2.b2b01ed1.chunk.css.map",
-    "static/css/main.51c9bc12.chunk.css.map": "/robotron/static/css/main.51c9bc12.chunk.css.map",
-    "static/js/2.711fc548.chunk.js.LICENSE.txt": "/robotron/static/js/2.711fc548.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/robotron/static/media/SEGA.47b4bfa9.woff"
+    "main.css": "/Robotron/static/css/main.ebbe0651.chunk.css",
+    "main.js": "/Robotron/static/js/main.3588612b.chunk.js",
+    "main.js.map": "/Robotron/static/js/main.3588612b.chunk.js.map",
+    "runtime-main.js": "/Robotron/static/js/runtime-main.2ac5069f.js",
+    "runtime-main.js.map": "/Robotron/static/js/runtime-main.2ac5069f.js.map",
+    "static/css/2.b2b01ed1.chunk.css": "/Robotron/static/css/2.b2b01ed1.chunk.css",
+    "static/js/2.711fc548.chunk.js": "/Robotron/static/js/2.711fc548.chunk.js",
+    "static/js/2.711fc548.chunk.js.map": "/Robotron/static/js/2.711fc548.chunk.js.map",
+    "static/js/3.ac1afdba.chunk.js": "/Robotron/static/js/3.ac1afdba.chunk.js",
+    "static/js/3.ac1afdba.chunk.js.map": "/Robotron/static/js/3.ac1afdba.chunk.js.map",
+    "index.html": "/Robotron/index.html",
+    "static/css/2.b2b01ed1.chunk.css.map": "/Robotron/static/css/2.b2b01ed1.chunk.css.map",
+    "static/css/main.ebbe0651.chunk.css.map": "/Robotron/static/css/main.ebbe0651.chunk.css.map",
+    "static/js/2.711fc548.chunk.js.LICENSE.txt": "/Robotron/static/js/2.711fc548.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Robotron/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.be77f866.js",
+    "static/js/runtime-main.2ac5069f.js",
     "static/css/2.b2b01ed1.chunk.css",
     "static/js/2.711fc548.chunk.js",
-    "static/css/main.51c9bc12.chunk.css",
+    "static/css/main.ebbe0651.chunk.css",
     "static/js/main.3588612b.chunk.js"
   ]
 }
